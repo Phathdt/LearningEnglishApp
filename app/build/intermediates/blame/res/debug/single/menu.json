@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "D:\\Document\\Project\\JapaneseLearning\\LearnEnglish\\app\\build\\intermediates\\res\\merged\\debug\\menu\\test.xml",
+        "source": "D:\\Document\\Project\\JapaneseLearning\\LearnEnglish\\app\\src\\main\\res\\menu\\test.xml"
+    },
+    {
+        "merged": "D:\\Document\\Project\\JapaneseLearning\\LearnEnglish\\app\\build\\intermediates\\res\\merged\\debug\\menu\\listen1.xml",
+        "source": "D:\\Document\\Project\\JapaneseLearning\\LearnEnglish\\app\\src\\main\\res\\menu\\listen1.xml"
+    },
+    {
+        "merged": "D:\\Document\\Project\\JapaneseLearning\\LearnEnglish\\app\\build\\intermediates\\res\\merged\\debug\\menu\\about.xml",
+        "source": "D:\\Document\\Project\\JapaneseLearning\\LearnEnglish\\app\\src\\main\\res\\menu\\about.xml"
+    },
+    {
+        "merged": "D:\\Document\\Project\\JapaneseLearning\\LearnEnglish\\app\\build\\intermediates\\res\\merged\\debug\\menu\\listen.xml",
+        "source": "D:\\Document\\Project\\JapaneseLearning\\LearnEnglish\\app\\src\\main\\res\\menu\\listen.xml"
+    },
+    {
+        "merged": "D:\\Document\\Project\\JapaneseLearning\\LearnEnglish\\app\\build\\intermediates\\res\\merged\\debug\\menu\\vocabulary.xml",
+        "source": "D:\\Document\\Project\\JapaneseLearning\\LearnEnglish\\app\\src\\main\\res\\menu\\vocabulary.xml"
+    },
+    {
+        "merged": "D:\\Document\\Project\\JapaneseLearning\\LearnEnglish\\app\\build\\intermediates\\res\\merged\\debug\\menu\\edit_notes.xml",
+        "source": "D:\\Document\\Project\\JapaneseLearning\\LearnEnglish\\app\\src\\main\\res\\menu\\edit_notes.xml"
+    },
+    {
+        "merged": "D:\\Document\\Project\\JapaneseLearning\\LearnEnglish\\app\\build\\intermediates\\res\\merged\\debug\\menu\\notes_menu.xml",
+        "source": "D:\\Document\\Project\\JapaneseLearning\\LearnEnglish\\app\\src\\main\\res\\menu\\notes_menu.xml"
+    },
+    {
+        "merged": "D:\\Document\\Project\\JapaneseLearning\\LearnEnglish\\app\\build\\intermediates\\res\\merged\\debug\\menu\\listen2.xml",
+        "source": "D:\\Document\\Project\\JapaneseLearning\\LearnEnglish\\app\\src\\main\\res\\menu\\listen2.xml"
+    },
+    {
+        "merged": "D:\\Document\\Project\\JapaneseLearning\\LearnEnglish\\app\\build\\intermediates\\res\\merged\\debug\\menu\\animal.xml",
+        "source": "D:\\Document\\Project\\JapaneseLearning\\LearnEnglish\\app\\src\\main\\res\\menu\\animal.xml"
+    },
+    {
+        "merged": "D:\\Document\\Project\\JapaneseLearning\\LearnEnglish\\app\\build\\intermediates\\res\\merged\\debug\\menu\\addnotes.xml",
+        "source": "D:\\Document\\Project\\JapaneseLearning\\LearnEnglish\\app\\src\\main\\res\\menu\\addnotes.xml"
+    },
+    {
+        "merged": "D:\\Document\\Project\\JapaneseLearning\\LearnEnglish\\app\\build\\intermediates\\res\\merged\\debug\\menu\\notes.xml",
+        "source": "D:\\Document\\Project\\JapaneseLearning\\LearnEnglish\\app\\src\\main\\res\\menu\\notes.xml"
+    },
+    {
+        "merged": "D:\\Document\\Project\\JapaneseLearning\\LearnEnglish\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu.xml",
+        "source": "D:\\Document\\Project\\JapaneseLearning\\LearnEnglish\\app\\src\\main\\res\\menu\\menu.xml"
+    },
+    {
+        "merged": "D:\\Document\\Project\\JapaneseLearning\\LearnEnglish\\app\\build\\intermediates\\res\\merged\\debug\\menu\\welcome.xml",
+        "source": "D:\\Document\\Project\\JapaneseLearning\\LearnEnglish\\app\\src\\main\\res\\menu\\welcome.xml"
+    }
+]

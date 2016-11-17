@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Document\Project\JapaneseLearning\LearnEnglish\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b0eed99a6820646cd49f771e1fad21a42536c48">
+        <dex dex="D:\Document\Project\JapaneseLearning\LearnEnglish\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_f75f23fbb923e6e016112f094d5862d4c16168e9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\droid\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="D:\Document\Project\JapaneseLearning\LearnEnglish\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_0b03414e3112545a3c15f8c1d371605b60ec38a2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Document\Project\JapaneseLearning\LearnEnglish\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="881657a5099e0f2a10c64e7bdc4f8b919753deec">
+        <dex dex="D:\Document\Project\JapaneseLearning\LearnEnglish\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_a6e0100b85b873a00ffd3f6e683b332d5bb6fae6\classes.dex" />
+    </item>
+
+</items>

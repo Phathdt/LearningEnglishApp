@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\Document\\Project\\JapaneseLearning\\LearnEnglish\\app\\build\\intermediates\\res\\merged\\debug\\anim\\scale_big.xml",
+        "source": "D:\\Document\\Project\\JapaneseLearning\\LearnEnglish\\app\\src\\main\\res\\anim\\scale_big.xml"
+    },
+    {
+        "merged": "D:\\Document\\Project\\JapaneseLearning\\LearnEnglish\\app\\build\\intermediates\\res\\merged\\debug\\anim\\translate_pre.xml",
+        "source": "D:\\Document\\Project\\JapaneseLearning\\LearnEnglish\\app\\src\\main\\res\\anim\\translate_pre.xml"
+    },
+    {
+        "merged": "D:\\Document\\Project\\JapaneseLearning\\LearnEnglish\\app\\build\\intermediates\\res\\merged\\debug\\anim\\scale.xml",
+        "source": "D:\\Document\\Project\\JapaneseLearning\\LearnEnglish\\app\\src\\main\\res\\anim\\scale.xml"
+    },
+    {
+        "merged": "D:\\Document\\Project\\JapaneseLearning\\LearnEnglish\\app\\build\\intermediates\\res\\merged\\debug\\anim\\translate_next.xml",
+        "source": "D:\\Document\\Project\\JapaneseLearning\\LearnEnglish\\app\\src\\main\\res\\anim\\translate_next.xml"
+    },
+    {
+        "merged": "D:\\Document\\Project\\JapaneseLearning\\LearnEnglish\\app\\build\\intermediates\\res\\merged\\debug\\anim\\rotate_xuoi.xml",
+        "source": "D:\\Document\\Project\\JapaneseLearning\\LearnEnglish\\app\\src\\main\\res\\anim\\rotate_xuoi.xml"
+    },
+    {
+        "merged": "D:\\Document\\Project\\JapaneseLearning\\LearnEnglish\\app\\build\\intermediates\\res\\merged\\debug\\anim\\rotate_nguoc.xml",
+        "source": "D:\\Document\\Project\\JapaneseLearning\\LearnEnglish\\app\\src\\main\\res\\anim\\rotate_nguoc.xml"
+    },
+    {
+        "merged": "D:\\Document\\Project\\JapaneseLearning\\LearnEnglish\\app\\build\\intermediates\\res\\merged\\debug\\anim\\scale2.xml",
+        "source": "D:\\Document\\Project\\JapaneseLearning\\LearnEnglish\\app\\src\\main\\res\\anim\\scale2.xml"
+    },
+    {
+        "merged": "D:\\Document\\Project\\JapaneseLearning\\LearnEnglish\\app\\build\\intermediates\\res\\merged\\debug\\anim\\translate.xml",
+        "source": "D:\\Document\\Project\\JapaneseLearning\\LearnEnglish\\app\\src\\main\\res\\anim\\translate.xml"
+    },
+    {
+        "merged": "D:\\Document\\Project\\JapaneseLearning\\LearnEnglish\\app\\build\\intermediates\\res\\merged\\debug\\anim\\translate_under.xml",
+        "source": "D:\\Document\\Project\\JapaneseLearning\\LearnEnglish\\app\\src\\main\\res\\anim\\translate_under.xml"
+    }
+]
